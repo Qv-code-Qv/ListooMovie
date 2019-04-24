@@ -1,0 +1,48 @@
+/* -------------------
+----------------------
+       GENERAL
+----------------------
+------------------- */
+
+body, html{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+
+h1{
+  color: red;
+}
+
+.center{
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+
+
+/* header */
+header{
+    background-color: red;
+}
+
+.menu2{
+    float: right;
+}
+
+/* mainBlock */
+
+.mainBlock{
+    width: 70%;
+    background-color: #fff;
+    margin: 70px auto;
+    padding: 20px 60px;
+}
+
+
+/* footer */
+footer{
+    background-color: blue;
+}
